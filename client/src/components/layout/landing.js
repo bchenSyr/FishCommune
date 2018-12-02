@@ -9,7 +9,7 @@ class Landing extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">Fishbook</h1>
+                <h1 className="display-3 mb-4">FishCommune</h1>
                 <p className="lead">
                   {" "}
                   Share your experience with fishing enthusiasts around the

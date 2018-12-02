@@ -79,16 +79,13 @@ export default class navbar extends Component {
                   aria-labelledby="navbarDropdownMenuLink"
                 >
                   <a className="dropdown-item" href="profile.html">
-                    Profile
+                    <i class="far fa-user-circle x-1" /> Profile
                   </a>
                   <a className="dropdown-item" href="#">
-                    Notifications
+                    <i class="fas fa-cog" /> Setting
                   </a>
                   <a className="dropdown-item" href="#">
-                    Setting
-                  </a>
-                  <a className="dropdown-item" href="#">
-                    Log out
+                    <i class="fas fa-sign-out-alt x-1" /> Log out
                   </a>
                 </div>
               </li>
